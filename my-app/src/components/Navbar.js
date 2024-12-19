@@ -21,10 +21,6 @@ export default function Navbar(props) {
                             <Link className="nav-link" to="/textform">TextForm</Link>
                         </li>
                     </ul>
-                    <div className="form-check form-switch">
-                        <input className="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" />
-                            <label className="form-check-label" htmlFor="flexSwitchCheckChecked"></label>
-                    </div>
                 </div>
             </div>
         </nav>
