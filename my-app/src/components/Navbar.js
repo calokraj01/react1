@@ -20,6 +20,12 @@ export default function Navbar(props) {
                         <li className="nav-item">
                             <Link className="nav-link" to="/textform">TextForm</Link>
                         </li>
+                        <li className="nav-item">
+                            <Link className="nav-link" to="/something1">Something1</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link className="nav-link" to="/something2">Something2</Link>
+                        </li>
                     </ul>
                 </div>
             </div>
