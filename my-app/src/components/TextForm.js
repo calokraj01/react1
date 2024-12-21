@@ -27,7 +27,6 @@ export default function TextForm(props) {
         setTex("")
     }
 
-
     return (
         <>
         <div className="container my-4 mb-2">
